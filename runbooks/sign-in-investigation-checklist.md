@@ -2,8 +2,8 @@
 
 1. Open Microsoft Entra → Sign-in logs  
 2. Filter by user and failure status  
-3. Review IP address, location, and client app  
-4. Identify anomalies  
-5. Collect IOCs  
-6. Document findings  
-7. Recommend remediation actions  
+3. Review IP, location, client app, timestamps  
+4. Identify anomalous patterns  
+5. Collect Indicators of Compromise (IOCs)  
+6. Document findings in incident report  
+7. Recommend or apply remediation actions  
