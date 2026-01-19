@@ -38,8 +38,9 @@ Simulate identity-based attacks in a Microsoft Entra tenant, detect suspicious a
 ## 📸 Evidence Preview
 <img width="2559" height="1406" alt="filtered-failed-signins" src="https://github.com/user-attachments/assets/fb6d68f6-451b-4ab7-8121-9450d50a326b" />
 
-<img width="921" height="61" alt="architecture-diagram" src="https://github.com/user-attachments/assets/ca280b97-dd51-4d53-8007-5c973dcc6f63" />
 - Made diagram with draw.io  
+
+<img width="921" height="61" alt="architecture-diagram" src="https://github.com/user-attachments/assets/ca280b97-dd51-4d53-8007-5c973dcc6f63" />
 
 ## 📈 Outcome
 Improved identity security posture by enforcing stronger authentication controls and reducing exposure to risky sign-in behavior.
